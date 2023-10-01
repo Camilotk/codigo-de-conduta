@@ -21,6 +21,8 @@ A UBL é um ambiente onde todos os que aprendem e contribuem podem se sentir seg
 # Denúncia e Moderação
 No servidor da UBL no Discord, os usuários podem usar @Moderação e @Admin para alertar a equipe de moderação sobre algum problema em um canal.
 
+No GitHub você pode nos marcar diretamente em qualquer issue ou PR sobre uma violação.
+
 Se você vir algum comportamento que viole o Código de Conduta, denuncie-o à equipe de moderação o mais rápido possível, seja de forma privada ou pública.
 
 A violação dos termos deste Código de Conduta terá consequências que dependerão de a) a gravidade da violação, e b) o histórico de violações. As possíveis consequências são: silenciamento temporário, expulsão da participação, banimento temporário ou permanente de toda a participação futura na comunidade.
