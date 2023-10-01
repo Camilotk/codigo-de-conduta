@@ -28,3 +28,9 @@ Se você vir algum comportamento que viole o Código de Conduta, denuncie-o à e
 A violação dos termos deste Código de Conduta terá consequências que dependerão de a) a gravidade da violação, e b) o histórico de violações. As possíveis consequências são: silenciamento temporário, expulsão da participação, banimento temporário ou permanente de toda a participação futura na comunidade.
 
 Se você se sentir injustiçado, você pode contatar um moderador ou organizador da comunidade e explicar o seu problema. O seu problema será resolvido por consenso dos moderadores.
+
+# Atribuição
+Partes deste Código de Conduta foram inspiradas pelos seguintes:
+* [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+* [Rust Lang Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+* O Código de Conduta do OSSU, derivado do [Código de Conduta do Fórum FrontEnd BR](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
