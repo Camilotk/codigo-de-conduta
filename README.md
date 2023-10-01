@@ -19,7 +19,7 @@ A UBL é um ambiente onde todos os que aprendem e contribuem podem se sentir seg
 * Nenhum nome de usuário inadequado. Os moderadores irão mudar o seu nome se ele for considerado impróprio para menores ou ofensivo.
 * Nenhuma defesa ou ameaça de qualquer um dos comportamentos proibidos.
 # Denúncia e Moderação
-No servidor da UBL no Discord, os usuários podem usar @moderador e @admin para alertar a equipe de moderação sobre algum problema em um canal.
+No servidor da UBL no Discord, os usuários podem usar @Moderação e @Admin para alertar a equipe de moderação sobre algum problema em um canal.
 
 Se você vir algum comportamento que viole o Código de Conduta, denuncie-o à equipe de moderação o mais rápido possível, seja de forma privada ou pública.
 
